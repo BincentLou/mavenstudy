@@ -1,0 +1,8 @@
+com/david/study/maven/biz/NormService.class
+com/david/study/maven/biz/AsynService.class
+com/david/study/maven/App.class
+com/david/study/maven/biz/NormalServiceImpl.class
+com/david/study/maven/biz/AsynServiceImpl.class
+com/david/study/maven/annotation/XtransactionAspect.class
+com/david/study/maven/annotation/XtransactionContext.class
+com/david/study/maven/annotation/Xtransaction.class
